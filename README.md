@@ -2,11 +2,22 @@
 Python script/bot to automatically scrape from data from [thisworddoesnotexist.com](https://www.thisworddoesnotexist.com/) made by [Thomas Dimson](https://github.com/turtlesoupy) and upload them to Instagram.
 ## Getting Started
 There are two easy ways to use the script.
- - Clone project then input your instagram data and run "bot.py". Running the script will cause the script to act like a bot which periodically fetches the data.
+ - Clone project then input your Instagram data and run "bot.py". Running the script will cause it to act like a bot which periodically fetches the data and publishes stuff on the inserted profile.
 ```
-usrnm, pswrd  =  "USERNAME HERE", "PASSWORD HERE"
+username, password = "INSTAGRAM USERNAME", "INSTAGRAM PASSWORD"
+postCaption = "INSTAGRAM POST CAPTION"
+scheduleMinutes = *INSERT NUMBER OF MINUTES*
+pictureSize = (width, height)
+outputFileName = "outputFileName.jpg"
 ```
  - Clone project and edit "bot.py" to your liking. Removing the scheduler will cause the script to no longer act like a bot.
+```
+# Schedule
+    schedule.every(scheduleMinutes).minutes.do(main)
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+```
 ### Prerequisites
 The "requirements.txt" file contains any Python dependencies. You can install them by running this command:
 ```
