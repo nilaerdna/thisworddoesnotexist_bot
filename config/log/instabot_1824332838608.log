@@ -1,0 +1,24 @@
+2020-05-18 10:11:08,642 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-05-18 10:11:08,642 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\Andrea\AppData\Local\Programs\Python\Python38\lib\site-packages\instabot\bot\bot.py
+2020-05-18 10:11:08,647 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-05-18 10:11:08,647 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-05-18 10:11:08,647 - instabot version: 0.117.0 (api_login) - INFO - Recovery from g:\Git\ThisWordDoesNotExist/config/atlantisprovaprova_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=dcd47773-8b2a-46b6-b970-f6a007f85a33
+- uuid=dc85f952-d6b4-4637-ae7d-3fb77dce63bc
+- client_session_id=65647c53-9e73-4798-a50c-a3df6799b23c
+- device_id=android-6e92b0940af80929
+2020-05-18 10:11:08,647 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-18 10:11:09,584 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-05-18 10:11:09,833 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-05-18 10:11:10,100 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-05-18 10:11:10,322 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-05-18 10:11:10,619 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-05-18 10:11:10,766 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-05-18 10:11:11,169 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-05-18 10:11:11,391 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-05-18 10:11:12,062 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-05-18 10:11:12,065 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'atlantisprovaprova'!
+2020-05-18 10:11:12,065 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: g:\Git\ThisWordDoesNotExist/config/atlantisprovaprova.checkpoint
+2020-05-18 10:11:23,517 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: g:\Git\ThisWordDoesNotExist/config/atlantisprovaprova.checkpoint
+2020-05-18 10:11:23,517 - instabot version: 0.117.0 (bot) - INFO - Total requests: 35

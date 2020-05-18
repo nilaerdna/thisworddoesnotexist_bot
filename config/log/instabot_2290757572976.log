@@ -1,0 +1,19 @@
+2020-05-18 10:06:46,143 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-05-18 10:06:46,143 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\Andrea\AppData\Local\Programs\Python\Python38\lib\site-packages\instabot\bot\bot.py
+2020-05-18 10:06:46,148 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-05-18 10:06:46,148 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-05-18 10:06:46,148 - instabot version: 0.117.0 (api_login) - INFO - Recovery from g:\Git\ThisWordDoesNotExist/config/atlantisprovaprova_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=dcd47773-8b2a-46b6-b970-f6a007f85a33
+- uuid=dc85f952-d6b4-4637-ae7d-3fb77dce63bc
+- client_session_id=65647c53-9e73-4798-a50c-a3df6799b23c
+- device_id=android-6e92b0940af80929
+2020-05-18 10:06:46,148 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-18 10:06:46,739 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-05-18 10:06:46,996 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-05-18 10:06:46,996 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'atlantisprovaprova'!
+2020-05-18 10:06:46,997 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: g:\Git\ThisWordDoesNotExist/config/atlantisprovaprova.checkpoint
+2020-05-18 10:09:10,456 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-05-18 10:09:10,704 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-05-18 10:09:10,707 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: g:\Git\ThisWordDoesNotExist/config/atlantisprovaprova.checkpoint
+2020-05-18 10:09:10,707 - instabot version: 0.117.0 (bot) - INFO - Total requests: 35
