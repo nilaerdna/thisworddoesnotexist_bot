@@ -1,5 +1,5 @@
 # ThisWordDoesNotExist_Bot
-Python script/bot to automatically scrape from data from [thisworddoesnotexist.com](https://www.thisworddoesnotexist.com/) made by [Thomas Dimson](https://github.com/turtlesoupy) and upload them to Instagram.
+Python script/bot to automatically scrape data from [thisworddoesnotexist.com](https://www.thisworddoesnotexist.com/) made by [Thomas Dimson](https://github.com/turtlesoupy) and upload them to Instagram.
 ## Getting Started
 There are two easy ways to use the script.
  - Clone project then input your Instagram data and run "bot.py". Running the script will cause it to act like a bot which periodically fetches the data and publishes stuff on the inserted profile.
