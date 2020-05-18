@@ -11,6 +11,8 @@ import os
 # 0: background color (8, 8, 45, 255); 1: text color (255, 255, 255, 255); 2: type and example color (255, 255, 255, 128)
 colors = ["#08082D", "#FFFFFF", "#848496"]
 
+usrnm, pswrd = "USERNAME HERE", "PASSWORD HERE"
+
 # New image, size 1080x1080, solid color HEX = #08082d // RGB(8, 8, 45)
 img = Image.new('RGB', (1080, 1080), colors[0])
 
@@ -18,7 +20,7 @@ img = Image.new('RGB', (1080, 1080), colors[0])
 fontHeavy = "font/Heavy.ttf"
 fontRegular = "font/Regular.ttf"
 fontRegularItalic = "font/RegularItalic.ttf"
-outputFileName = "test.jpg"
+outputFileName = "outputImage.jpg"
 
 # Scraped Data
 scraper = Scraper()
@@ -115,7 +117,7 @@ def main():
 if __name__ == "__main__":
     # Bot config
     bot = Bot()
-    bot.login(username="atlantisprovaprova", password="iomichiamoLollo123")
+    bot.login(username=usrnm, password=pswrd)
     main()
     schedule.every(2).minutes.do(main)
     while True:
