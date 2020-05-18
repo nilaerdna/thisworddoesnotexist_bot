@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 - [Selenium](https://www.selenium.dev/documentation/en/) - Browser Automation
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - HTML documents analysis
 - [PIL](https://pillow.readthedocs.io/en/stable/) - Python Image Library
-- [Instabot](https://github.com/instagrambot/instabot) -Instagram Python API
+- [Instabot](https://github.com/instagrambot/instabot) - Instagram Python API
 
 
 ### Also uses
