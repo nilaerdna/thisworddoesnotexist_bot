@@ -1,4 +1,3 @@
-# Generazione Immagine da caricare
 from PIL import Image, ImageFont, ImageDraw
 import textwrap
 
