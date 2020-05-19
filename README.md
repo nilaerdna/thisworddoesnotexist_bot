@@ -24,7 +24,7 @@ The "requirements.txt" file contains any Python dependencies. You can install th
 pip3 install -r requirements.txt
 ```
 ## Built With
-- [Selenium](https://www.selenium.dev/documentation/en/) - Browser Automation.
+- [Requests](https://requests.readthedocs.io/en/master/) - HTTP library for Python.
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - HTML documents analysis.
 - [PIL](https://pillow.readthedocs.io/en/stable/) - Python Image Library.
 - [Instabot](https://github.com/instagrambot/instabot) - Instagram Python API.
