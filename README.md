@@ -27,7 +27,7 @@ pip3 install -r requirements.txt
 - [Requests](https://requests.readthedocs.io/en/master/) - HTTP library for Python.
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - HTML documents analysis.
 - [PIL](https://pillow.readthedocs.io/en/stable/) - Python Image Library.
-- [Instabot](https://github.com/instagrambot/instabot) - Instagram Python API.
+- [Instabot](https://github.com/instagrambot/instabot) - Instagram Python API Wrapper.
 - [Schedule](https://schedule.readthedocs.io/en/stable/) - Python job scheduling for humans.
 ### Creators
 [Andrea Lin](https://github.com/nilaerdna/) & [Mattia Ferrari](https://github.com/IlSassone)
